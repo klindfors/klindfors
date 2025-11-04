@@ -1,7 +1,6 @@
-#  :sunrise_over_mountains: About Kim:
-Hi! I'm Kim, studying Computer Science and Software Engineering at Stockholm University. I thrive in the intersection of technical development and strategic design thinking. 
-I have a solid academic background in Human Computer Interaction and Interaction Design, as well as proficiency in Java, Kotlin, Python, Dart, C#, C++. 
-## Socials:
+#  :sunrise_over_mountains: Hi, I'm Kim!
+I thrive in the intersection of technical development and strategic design thinking. I am currently pursuing a BSc in Computer Science and Software Engineering at Stockholm University. I have a solid academic background in Human Computer Interaction and Interaction Design, as well as proficiency in Java, Kotlin, Python, Dart, C#, C++.
+## 🌱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-fff0ea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimwl)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-fff0ea?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimotheus)
 [![Strava](https://img.shields.io/badge/Strava-Profile-fff0ea?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/114519096)
