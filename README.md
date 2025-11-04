@@ -1,10 +1,9 @@
-## Hi there 👋
+#  :sunrise_over_mountains: About Kim:
+###Hi! I'm Kim, studying Computer Science and Software Engineering at Stockholm University. I have a solid academic background in Human Computer Interaction and Interaction Design, as well as technical proficiency in Java, Kotlin, Dart, C#, C++. I thrive in the intersection of technical development and strategic design thinking.
+
 
 <!--
 **klindfors/klindfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
