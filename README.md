@@ -1,5 +1,5 @@
 #  :sunrise_over_mountains: About Kim:
-##Hi! I'm Kim, studying Computer Science and Software Engineering at Stockholm University. I have a solid academic background in Human Computer Interaction and Interaction Design, as well as technical proficiency in Java, Kotlin, Dart, C#, C++. I thrive in the intersection of technical development and strategic design thinking.
+Hi! I'm Kim, studying Computer Science and Software Engineering at Stockholm University. I have a solid academic background in Human Computer Interaction and Interaction Design, as well as technical proficiency in Java, Kotlin, Dart, C#, C++. I thrive in the intersection of technical development and strategic design thinking.
 
 
 <!--
