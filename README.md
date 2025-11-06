@@ -1,8 +1,6 @@
 ## 🌄 Hi, I'm Kim!
 I thrive in the intersection of technical development and design thinking. I am currently pursuing a BSc in Computer Science and Software Engineering at Stockholm University, through which I have built a strong foundation in Human Computer Interaction and Interaction Design, as well as proficiency in Java, Kotlin, Python, Dart, C#, C++.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=klindfors)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-fff0ea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimwl)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-fff0ea?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimotheus)
