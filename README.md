@@ -1,7 +1,7 @@
 ## 🌄 Hi, I'm Kim!
 I am currently pursuing a BSc in Computer Science and Software Engineering at Stockholm University, through which I have built proficiency in Java, Kotlin, Python, Dart and C++, as well as a strong foundation in Human Computer Interaction and Interaction Design.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=klindfors&layout=compact&langs_count=10&disable_animations=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=klindfors&layout=compact&langs_count=10&disable_animations=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=klindfors&layout=compact&langs_count=10&disable_animations=true&theme=transparent)
 
 ## 🌱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-fff0ea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimwl)
